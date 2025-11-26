@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=FF9AD5&center=true&vCenter=true&width=650&lines=Hiii+%F0%9F%A4%97+Welcome+to+my+Cute+Tech+Realm!;I'm+Abhilasha+%F0%9F%8C%B8;Full+Stack+Developer+%7C+PG-DAC+Cutie;Coding+with+Kawaii+Energy+%F0%9F%92%97;Gojo+is+my+Senpai+%F0%9F%98%8E✨" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=E156B9&center=true&vCenter=true&width=650&lines=Hiii+%F0%9F%8C%B8+Welcome+to+my+soft+tech+space!;I'm+Abhilasha+%F0%9F%92%9C;Full+Stack+Developer+%7C+PG-DAC;Coding+with+passion+and+patience+%F0%9F%8C%B8;Happy+to+have+you+here+%F0%9F%92%9C" />
 </p>
 
 <h1 align="center">  
