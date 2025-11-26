@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=E156B9&center=true&vCenter=true&width=650&lines=Hiii+%F0%9F%8C%B8+Welcome+to+my+soft+tech+space!;I'm+Abhilasha+%F0%9F%92%9C;Full+Stack+Developer+%7C+PG-DAC;Coding+with+passion+and+patience+%F0%9F%8C%B8;Happy+to+have+you+here+%F0%9F%92%9C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=FFB3E6&center=true&vCenter=true&width=650&lines=Hiii+%F0%9F%8C%B8+Welcome+to+my+soft+tech+space!;I'm+Abhilasha+%F0%9F%92%9C;Full+Stack+Developer+%7C+PG-DAC;Coding+with+passion+and+patience+%F0%9F%8C%B8;Happy+to+have+you+here+%F0%9F%92%9C" />
 </p>
 
 <h1 align="center">  
@@ -7,10 +7,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PG--DAC-%F0%9F%92%97-FF9AD5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-%F0%9F%8C%B8-FFB3E6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kawaii%20Coder-%F0%9F%A4%97-FF8EC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PG--DAC-%F0%9F%92%97-FFB1D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-%F0%9F%8C%B8-FFB1D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kawaii%20Coder-%F0%9F%A4%97-FFB1D9?style=for-the-badge" />
 </p>
+
+
 
 <!-- 🌸 CHIBI GOJO DIVIDER -->
 <p align="center">
@@ -108,7 +110,7 @@ Agile + SDLC
 ### 🌈 Contribution Graph (soft bloom)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhilasha-0710&theme=github-compact&area=true&line=FF9AD5&point=FF78C4&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilasha-blosssom&theme=github-compact&area=true&line=FF9AD5&point=FF78C4&hide_border=true" />
 </p>
 
 <p align="center">
