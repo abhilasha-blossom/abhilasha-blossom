@@ -6,6 +6,8 @@
   🌸✨ Hellooo, I'm <span style="color:#FF78C4;">Abhilasha</span> ✨🌸  
 </h1>
 
+<p align="center"> 💗 · ✧ · 💗 · ✧ · 💗 · ✧ · 💗 · ✧ · 💗 · ✧ · 💗 · ✧ · 💗 · ✧ · 💗 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/PG--DAC-%F0%9F%92%97-FFB1D9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Full%20Stack%20Dev-%F0%9F%8C%B8-FFB1D9?style=for-the-badge" />
@@ -15,9 +17,7 @@
 
 
 <!-- 🌸 CHIBI GOJO DIVIDER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhilasha-blossom/abhilasha-blossom/main/frog.png" width="50%" />
-</p>
+
 
 ---
 
