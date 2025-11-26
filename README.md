@@ -16,7 +16,7 @@
 
 <!-- 🌸 CHIBI GOJO DIVIDER -->
 <p align="center">
-  <img src="https://i.ibb.co/hK0HtZr/frog-divider.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/abhilasha-blossom/abhilasha-blossom/main/frog.png" width="50%" />
 </p>
 
 ---
