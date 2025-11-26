@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=FFB3E6&center=true&vCenter=true&width=650&lines=Hiii+%F0%9F%8C%B8+Welcome+to+my+soft+tech+space!;I'm+Abhilasha+%F0%9F%92%9C;Full+Stack+Developer+%7C+PG-DAC;Coding+with+passion+and+patience+%F0%9F%8C%B8;Happy+to+have+you+here+%F0%9F%92%9C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=28&pause=1000&color=FFB3E6&center=true&vCenter=true&width=650&lines=Hiii+%F0%9F%8C%B8+Welcome+to+my+soft+tech+space!;Where+logic+meets+creativity+%F0%9F%92%97;Full+Stack+Developer+%7C+PG-DAC;Coding+with+passion+and+patience+%F0%9F%8C%B8;Happy+to+have+you+here+%F0%9F%92%97" />
 </p>
 
 <h1 align="center">  
@@ -16,7 +16,7 @@
 
 <!-- 🌸 CHIBI GOJO DIVIDER -->
 <p align="center">
-  <img src="YOUR_DIVIDER_LINK_HERE" width="100%" />
+  <img src="https://i.ibb.co/hK0HtZr/frog-divider.png" width="100%" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
 
 <!-- ✨ CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
 ## 🌸 My Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,react,bootstrap,git,mysql,mongodb,linux,vscode,spring&theme=light" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Editor-VSCode-%23FFB3E6?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Theme-PastelPink-%23FF9AD5?style=flat-square" /> </p> <!-- 💕 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,react,bootstrap,git,mysql,mongodb,linux,vscode,spring&theme=light" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Editor-VSCode-%23FFB1D9?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Theme-PastelPink-%23FFB1D9?style=flat-square" /> </p> <!-- 💕 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
 
 ## 🍰 Skills from PG-DAC (soft but powerful 🎀)
 
@@ -93,7 +93,7 @@ Agile + SDLC
 
 ### 💌 Connect With Me (let’s be frens~)
 
-<p align="center"> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Email-%F0%9F%92%8C-FF8EC7?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%F0%9F%8C%B8-FF78C4?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <!-- 🌸 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
+<p align="center"> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Email-%F0%9F%92%8C-FFB1D9?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%F0%9F%8C%B8-FFB1D9?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <!-- 🌸 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
 
 ### 🌟 GitHub Stats (Cute Pink Edition)
 
@@ -110,7 +110,7 @@ Agile + SDLC
 ### 🌈 Contribution Graph (soft bloom)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilasha-blosssom&theme=github-compact&area=true&line=FF9AD5&point=FF78C4&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilasha-blossom&theme=github-compact&area=true&line=FF9AD5&point=FF78C4&hide_border=true" />
 </p>
 
 <p align="center">
