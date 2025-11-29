@@ -46,7 +46,7 @@ soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
   🌸 Clean soft UI patterns
 ```
 
-<p align="center"> <img src="divider(1).png" width="100%" /> </p>
+<!-- <p align="center"> <img src="divider(1).png" width="100%" /> </p> -->
 ## 🌸 My Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,react,bootstrap,git,mysql,mongodb,linux,vscode,spring&theme=light" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Editor-VSCode-%23FFB1D9?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Theme-PastelPink-%23FFB1D9?style=flat-square" /> </p> <!-- 💕 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
 
