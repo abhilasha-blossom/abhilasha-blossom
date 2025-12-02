@@ -1,63 +1,80 @@
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageDraw
 
 def create_divider():
-    # Canvas settings
-    width = 800
-    height = 130
+    # Canvas settings - Updated to 600px width as requested (interpreting "earlier was 800" as width)
+    # Reduced height to 100px since user said "height is a little big"
+    width = 600
+    height = 100
     canvas = Image.new('RGBA', (width, height), (0, 0, 0, 0))
     draw = ImageDraw.Draw(canvas)
 
     # Load images
     try:
-        # Assuming typical ordering, but we might need to swap if user feedback indicates
-        # User said: "boy at extreme leftmost and the girl at rightmost"
-        # I'll map 'boy.png' to left and 'girl.png' to right
         boy = Image.open('boy.png').convert('RGBA')
         girl = Image.open('girl.png').convert('RGBA')
     except FileNotFoundError:
         print("Error: Images not found.")
         return
 
-    # Resize images to fit height if necessary (keeping aspect ratio)
-    # Let's say max height is 120px to leave some padding
-    max_h = 120
+    # Resize images
+    # Reduced max height to 90px to fit in 100px canvas
+    max_h = 90
     
     def resize_contain(img, max_h):
         ratio = max_h / img.height
         new_w = int(img.width * ratio)
-        return img.resize((new_w, max_h), Image.Resampling.LANCZOS)
+        return img.resize((new_w, max_h), Image.Resampling.NEAREST) # Use NEAREST for pixel art look
 
     boy = resize_contain(boy, max_h)
     girl = resize_contain(girl, max_h)
 
     # Positions
-    # Boy on left (x=0)
     boy_pos = (0, (height - boy.height) // 2)
     canvas.paste(boy, boy_pos, boy)
 
-    # Girl on right (x=width-girl.width)
     girl_pos = (width - girl.width, (height - girl.height) // 2)
     canvas.paste(girl, girl_pos, girl)
 
-    # Line settings
-    line_y = height // 2
-    start_x = boy.width + 10 # padding
-    end_x = width - girl.width - 10 # padding
+    # Heart connection
+    start_x = boy.width + 10
+    end_x = width - girl.width - 10
+    center_y = height // 2
+
+    # Pixel heart pattern (7x6 approx)
+    #   XX   XX
+    #  XXXX XXXX
+    #  XXXXXXXXX
+    #   XXXXXXX
+    #    XXXXX
+    #     XXX
+    #      X
+    heart_pattern = [
+        (1,0), (2,0), (5,0), (6,0),
+        (0,1), (1,1), (2,1), (3,1), (4,1), (5,1), (6,1), (7,1),
+        (0,2), (1,2), (2,2), (3,2), (4,2), (5,2), (6,2), (7,2),
+        (1,3), (2,3), (3,3), (4,3), (5,3), (6,3),
+        (2,4), (3,4), (4,4), (5,4),
+        (3,5), (4,5)
+    ]
     
-    # Neon effect: Draw multiple lines with decreasing width and increasing opacity
-    # Color: Neon Pink #FF6EC7 (HotPink) or #FF1493 (DeepPink)
-    # Let's use a bright neon pink
-    neon_color = (255, 20, 147) # DeepPink
-    
-    # Glow (wider, transparent)
-    draw.line([(start_x, line_y), (end_x, line_y)], fill=(255, 105, 180, 100), width=8) # HotPink low alpha
-    draw.line([(start_x, line_y), (end_x, line_y)], fill=(255, 20, 147, 150), width=5)
-    # Core (thin, solid)
-    draw.line([(start_x, line_y), (end_x, line_y)], fill=(255, 255, 255, 255), width=2) # White core for "neon" look
-    
-    # Save
-    canvas.save('custom_divider.png')
-    print("Divider created: custom_divider.png")
+    heart_color = (255, 0, 0, 255) # Red
+    heart_width = 9 # width of the pattern roughly
+    spacing = 20 # space between hearts
+
+    current_x = start_x
+    while current_x < end_x - heart_width:
+        # Draw heart at current_x, center_y
+        # Offset y to center the heart (height is approx 6 pixels)
+        start_y = center_y - 3
+        
+        for dx, dy in heart_pattern:
+            draw.point((current_x + dx, start_y + dy), fill=heart_color)
+        
+        current_x += spacing
+
+    # Save as v2 to avoid caching
+    canvas.save('custom_divider_v2.png')
+    print("Divider created: custom_divider_v2.png")
 
 if __name__ == "__main__":
     create_divider()
