@@ -35,7 +35,7 @@ Java • Web Dev • UI Design • Pink Themes • Anime • Gojo 💙
 soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
 
 ```
-<!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
+<!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider.png" width="100%" /> </p>
 ## 🍓 Currently Learning 
 ```bash
   learning ~ now
@@ -48,7 +48,7 @@ soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
 
 <!-- <p align="center"> <img src="divider(1).png" width="100%" /> </p> -->
 ## 🌸 My Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,react,bootstrap,git,mysql,mongodb,linux,vscode,spring&theme=light" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Editor-VSCode-%23FFB1D9?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Theme-PastelPink-%23FFB1D9?style=flat-square" /> </p> <!-- 💕 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,react,bootstrap,git,mysql,mongodb,linux,vscode,spring&theme=light" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Editor-VSCode-%23FFB1D9?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Theme-PastelPink-%23FFB1D9?style=flat-square" /> </p> <!-- 💕 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider.png" width="100%" /> </p>
 
 ## 🍰 Skills from PG-DAC (soft but powerful 🎀)
 
@@ -89,11 +89,11 @@ Docker basics
 
 Agile + SDLC
 
-<!-- 🩷 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
+<!-- 🩷 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider.png" width="100%" /> </p>
 
 ### 💌 Connect With Me (let’s be frens~)
 
-<p align="center"> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Email-%F0%9F%92%8C-FFB1D9?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%F0%9F%8C%B8-FFB1D9?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <!-- 🌸 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
+<p align="center"> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/Email-%F0%9F%92%8C-FFB1D9?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%F0%9F%8C%B8-FFB1D9?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <!-- 🌸 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider.png" width="100%" /> </p>
 
 ### 🌟 GitHub Stats (Cute Pink Edition)
 
@@ -105,7 +105,7 @@ Agile + SDLC
 
 ### 🎖️ Trophy Cabinet (Pastel Mode)
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abhilasha-0710&theme=oldie&no-frame=true&column=7&margin-w=8" /> </p> <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="YOUR_DIVIDER_LINK_HERE" width="100%" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abhilasha-0710&theme=oldie&no-frame=true&column=7&margin-w=8" /> </p> <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider.png" width="100%" /> </p>
 
 ### 🌈 Contribution Graph (soft bloom)
 
