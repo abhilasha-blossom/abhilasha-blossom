@@ -16,7 +16,7 @@
 
 
 
-<!-- 🌸 CHIBI GOJO DIVIDER -->
+<!-- 🌸 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 
 ---
@@ -97,15 +97,15 @@ Agile + SDLC
 
 ### 🌟 GitHub Stats (Cute Pink Edition)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhilasha-0710&show_icons=true&title_color=FF78C4&icon_color=FF9AD5&text_color=FFB6E4&bg_color=ffffff&hide_border=true" width="52%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhilasha-0710&layout=compact&title_color=FF78C4&text_color=FF8EC7&bg_color=ffffff&hide_border=true" width="40%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhilasha-blossom&show_icons=true&title_color=FF78C4&icon_color=FF9AD5&text_color=FFB6E4&bg_color=ffffff&hide_border=true" width="52%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilasha-blossom&layout=compact&title_color=FF78C4&text_color=FF8EC7&bg_color=ffffff&hide_border=true" width="40%" /> </p>
 
 ### 🔥 Gojo-Style Streak Stats
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhilasha-0710&theme=bubblegum&hide_border=true" width="70%" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=abhilasha-blossom&theme=dark&ring=FF6EC7&fire=FF6EC7&currStreakNum=FF6EC7&sideNums=FF6EC7&currStreakLabel=FF6EC7&sideLabels=FF6EC7&dates=FF6EC7&background=0d1117&hide_border=true" width="70%" /> </p>
 
 ### 🎖️ Trophy Cabinet (Pastel Mode)
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Abhilasha-0710&theme=oldie&no-frame=true&column=7&margin-w=8" /> </p> <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhilasha-blossom&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" /> </p> <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ### 🌈 Contribution Graph (soft bloom)
 
