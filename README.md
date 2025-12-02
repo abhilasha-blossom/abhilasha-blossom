@@ -97,20 +97,27 @@ Agile + SDLC
 
 ### 🌟 GitHub Stats (Cute Pink Edition)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhilasha-blossom&show_icons=true&title_color=FF78C4&icon_color=FF9AD5&text_color=FFB6E4&bg_color=ffffff&hide_border=true" width="52%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilasha-blossom&layout=compact&title_color=FF78C4&text_color=FF8EC7&bg_color=ffffff&hide_border=true" width="40%" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=abhilasha-blossom&show_icons=true&title_color=FF78C4&icon_color=FF9AD5&text_color=FFB6E4&bg_color=0d1117&hide_border=true" width="52%" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilasha-blossom&layout=compact&title_color=FF78C4&text_color=FF8EC7&bg_color=0d1117&hide_border=true" width="40%" alt="Top Languages" /> 
+</p>
 
 ### 🔥 Gojo-Style Streak Stats
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=abhilasha-blossom&theme=dark&ring=FF6EC7&fire=FF6EC7&currStreakNum=FF6EC7&sideNums=FF6EC7&currStreakLabel=FF6EC7&sideLabels=FF6EC7&dates=FF6EC7&background=0d1117&hide_border=true" width="70%" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhilasha-blossom&theme=dark&ring=FF6EC7&fire=FF6EC7&currStreakNum=FF6EC7&sideNums=FF6EC7&currStreakLabel=FF6EC7&sideLabels=FF6EC7&dates=FF6EC7&background=0d1117&hide_border=true" width="70%" alt="Streak Stats" /> 
+</p>
 
 ### 🎖️ Trophy Cabinet (Pastel Mode)
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhilasha-blossom&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" /> </p> <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=abhilasha-blossom&theme=git-hub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophy Cabinet" /> 
+</p> <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ### 🌈 Contribution Graph (soft bloom)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilasha-blossom&theme=github-compact&area=true&line=FF9AD5&point=FF78C4&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhilasha-blossom&theme=react-dark&area=true&line=FF9AD5&point=FF78C4&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
 </p>
 
 <p align="center">
