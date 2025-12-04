@@ -100,22 +100,30 @@ Agile + SDLC
 </a> </p> <!-- 🌸 CHIBI GOJO DIVIDER -->
 <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
-## 📈 GitHub Stats <p align="center"> <img src="https://github-readme-stats-k4xr.vercel.app/api?username=abhilasha-blossom&show_icons=true&hide_border=true&theme=radical&title_color=FF00FF&icon_color=00E8FF&text_color=C9C9C9&bg_color=0D0D0D" width="52%" /> <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=chaitanyahoon&layout=compact&hide_border=true&theme=radical&title_color=FF00FF&text_color=C9C9C9&bg_color=0D0D0D" width="40%" /> </p> 
+## 📈 GitHub Stats <p align="center"> <img src="https://github-readme-stats-k4xr.vercel.app/api?username=abhilasha-blossom&show_icons=true&hide_border=true&theme=radical&title_color=FFB3E6&icon_color=00E8FF&text_color=C9C9C9&bg_color=0D0D0D" width="52%" /> <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=abhilasha-blossom&layout=compact&hide_border=true&theme=radical&title_color=FFB3E6&text_color=C9C9C9&bg_color=0D0D0D" width="40%" /> </p> 
 ---
-💠 Gojo-Style GitHub Stats | 🔥 Gojo-Style Streak 
+<h2 align="center"> 💠 Gojo-Style GitHub Stats | 🔥 Gojo-Style Streak </h2>
 
-<img align="right" width="40%" src="gojochibi.png">
+<div align="center">
 
-<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhilasha-blossom&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519,000000&border_color=3a8296&hide_border=false" height="170" /> -->
+  <img align="right" width="38%" src="gojochibi.png" />
 
-<img src="https://streak-stats.demolab.com?user=abhilasha-blossom&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+  <img src="https://github-readme-stats-k4xr.vercel.app/api?username=abhilasha-blossom&show_icons=true&hide_border=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0D0D0D" height="170" />
 
+  <img src="https://streak-stats.demolab.com?user=abhilasha-blossom&theme=radical&hide_border=false&background=0D0D0D&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170" />
 
-🎖️ Trophy Cabinet 
+</div>
+
+<br clear="both"/>
+
+<p align="center">——————————————————————————————————————————</p>
+
+<h2 align="center"> 🏆 Trophy Cabinet </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy-mirror.vercel.app/?username=abhilasha-blossom&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=abhilasha-blossom&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=10" />
 </p>
+
 
 ### 🌈 Contribution Graph 
 
