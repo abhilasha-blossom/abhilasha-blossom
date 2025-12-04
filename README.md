@@ -100,6 +100,8 @@ Agile + SDLC
 </a> </p> <!-- 🌸 CHIBI GOJO DIVIDER -->
 <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
+## 📈 GitHub Stats <p align="center"> <img src="https://github-readme-stats-k4xr.vercel.app/api?username=abhilasha-blossom&show_icons=true&hide_border=true&theme=radical&title_color=FF00FF&icon_color=00E8FF&text_color=C9C9C9&bg_color=0D0D0D" width="52%" /> <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=chaitanyahoon&layout=compact&hide_border=true&theme=radical&title_color=FF00FF&text_color=C9C9C9&bg_color=0D0D0D" width="40%" /> </p> 
+---
 💠 Gojo-Style GitHub Stats | 🔥 Gojo-Style Streak 
 
 <img align="right" width="40%" src="gojochibi.png">
