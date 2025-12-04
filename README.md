@@ -100,24 +100,20 @@ Agile + SDLC
 </a> </p> <!-- 🌸 CHIBI GOJO DIVIDER -->
 <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
-🌟 GitHub Stats
-
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhilasha-blossom&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=abhilasha-blossom&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-
-
 💠 Gojo-Style GitHub Stats | 🔥 Gojo-Style Streak 
 
+<img align="right" width="40%" src="gojochibi.png">
 
+<!-- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhilasha-blossom&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=091519,000000&border_color=3a8296&hide_border=false" height="170" /> -->
 
+<img src="https://streak-stats.demolab.com?user=abhilasha-blossom&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
 
 
 🎖️ Trophy Cabinet 
 
-
-
+<p align="center">
+  <img src="https://github-profile-trophy-mirror.vercel.app/?username=abhilasha-blossom&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
 ### 🌈 Contribution Graph 
 
