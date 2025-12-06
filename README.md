@@ -20,12 +20,10 @@
 
 ## 🎀 About Me
 
-<div align="center">
-  <a href="https://app.daily.dev/abhilashathakur">
-    <img align="right" src="https://api.daily.dev/devcards/v2/HjQRlY0kieUuvOEOywTyJ.png?type=default&r=41p" width="250" alt="Abhilasha Thakur's Dev Card"/>
-  </a>
-  <p align="center">
-    <br>
+<table align="center">
+  <tr>
+    <td valign="top" align="center">
+      <p align="center">
 ✧ whoami ✧<br>
 A cute pastel-loving developer mixing soft aesthetics<br>
 with powerful full-stack skills.<br>
@@ -34,11 +32,14 @@ with powerful full-stack skills.<br>
 Java • Web Dev • UI Design • Pink Themes • Anime • Gojo 💙<br>
 <br>
 ✧ personality ✧<br>
-soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking<br>
-<br>
-  </p>
-</div>
-
+soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
+      </p>
+    </td>
+    <td valign="top" align="center">
+      <a href="https://app.daily.dev/abhilashathakur"><img src="https://api.daily.dev/devcards/v2/HjQRlY0kieUuvOEOywTyJ.png?type=default&r=41p" width="200" alt="Abhilasha Thakur's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
 <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ## 🌼 I Code With Love and Logic — Here’s How I’m Growing 👇
@@ -46,26 +47,29 @@ soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking<br>
 <p align="center">
   <a href="https://gitroll.io/profile/ujsnzg30X3Xab5A70spEvv8eGXvr1" target="_blank">
     <img 
-      src="gitroll_profile_glow.png"
-      width="55%"
+      src="https://gitroll.io/api/badges/profiles/v1/ujsnzg30X3Xab5A70spEvv8eGXvr1?theme=kawaiiCat" 
+      width="40%" 
       alt="GitRoll Profile Badge"
     />
   </a>
 </p>
 
 ## 🍓 Currently Learning 
-```bash
+bash
   learning ~ now
   🌸 Spring Boot APIs
   🌸 HTML/CSS/JS with cute UI
   🌸 MySQL + MongoDB
   🌸 DSA (even trees are kawaii 🌳✨)
   🌸 Clean soft UI patterns
-```
+
+
 
 <!-- <p align="center"> <img src="divider(1).png" width="100%" /> </p> -->
 ## 🌸 My Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,react,bootstrap,git,mysql,mongodb,linux,vscode,spring&theme=light" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Editor-VSCode-%23FFB1D9?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Theme-PastelPink-%23FFB1D9?style=flat-square" /> </p> <!-- 💕 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,cs,html,css,js,react,bootstrap,git,mysql,mongodb,linux,vscode,spring&theme=light" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Editor-VSCode-%23FFB1D9?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Theme-PastelPink-%23FFB1D9?style=flat-square" /> </p> 
+
+<!-- 💕 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ## 🍰 Skills from PG-DAC (soft but powerful 🎀)
 
@@ -156,4 +160,3 @@ Agile + SDLC
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=600&size=26&pause=1500&color=FF78C4&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting!+%F0%9F%92%97;Stay+soft%2C+stay+growing+%F0%9F%A4%8D;Gojo+approves+your+coding~+%F0%9F%A4%97" />
 </p>
-
