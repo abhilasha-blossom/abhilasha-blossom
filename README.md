@@ -20,10 +20,12 @@
 
 ## 🎀 About Me
 
-<table align="center">
-  <tr>
-    <td valign="top" align="center">
-      <p align="center">
+<div align="center">
+  <a href="https://app.daily.dev/abhilashathakur">
+    <img align="right" src="https://api.daily.dev/devcards/v2/HjQRlY0kieUuvOEOywTyJ.png?type=default&r=41p" width="200" alt="Abhilasha Thakur's Dev Card"/>
+  </a>
+  <p align="center">
+    <br>
 ✧ whoami ✧<br>
 A cute pastel-loving developer mixing soft aesthetics<br>
 with powerful full-stack skills.<br>
@@ -32,14 +34,11 @@ with powerful full-stack skills.<br>
 Java • Web Dev • UI Design • Pink Themes • Anime • Gojo 💙<br>
 <br>
 ✧ personality ✧<br>
-soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
-      </p>
-    </td>
-    <td valign="top" align="center">
-      <a href="https://app.daily.dev/abhilashathakur"><img src="https://api.daily.dev/devcards/v2/HjQRlY0kieUuvOEOywTyJ.png?type=default&r=41p" width="200" alt="Abhilasha Thakur's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking<br>
+<br>
+  </p>
+</div>
+
 <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ## 🌼 I Code With Love and Logic — Here’s How I’m Growing 👇
@@ -47,7 +46,7 @@ soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
 <p align="center">
   <a href="https://gitroll.io/profile/ujsnzg30X3Xab5A70spEvv8eGXvr1" target="_blank">
     <img 
-      src="gitroll_glow.png"
+      src="gitroll_profile_glow.png"
       width="55%"
       alt="GitRoll Profile Badge"
     />
