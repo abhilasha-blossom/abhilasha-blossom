@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://app.daily.dev/abhilashathakur">
-    <img align="right" src="https://api.daily.dev/devcards/v2/HjQRlY0kieUuvOEOywTyJ.png?type=default&r=41p" width="200" alt="Abhilasha Thakur's Dev Card"/>
+    <img align="right" src="https://api.daily.dev/devcards/v2/HjQRlY0kieUuvOEOywTyJ.png?type=default&r=41p" width="250" alt="Abhilasha Thakur's Dev Card"/>
   </a>
   <p align="center">
     <br>
