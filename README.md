@@ -36,6 +36,20 @@ soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
 
 ```
 <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
+
+## 🌼 I Code With Love and Logic — Here’s How I’m Growing 👇
+
+<p>
+  <a href="https://gitroll.io/profile/ujsnzg30X3Xab5A70spEvv8eGXvr1" target="_blank">
+    <img 
+      src="https://gitroll.io/api/badges/profiles/v1/ujsnzg30X3Xab5A70spEvv8eGXvr1?theme=kawaiiCat"
+      width="55%"
+      style="border-radius: 18px; box-shadow: 0px 0px 18px 4px #ffb3d9;"
+      alt="GitRoll Profile Badge"
+    />
+  </a>
+</p>
+
 ## 🍓 Currently Learning 
 ```bash
   learning ~ now
