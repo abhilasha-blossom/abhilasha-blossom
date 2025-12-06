@@ -18,33 +18,37 @@
 
 <!-- 🌸 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
-
----
-
 ## 🎀 About Me
 
-```bash
-✧ whoami ✧
-A cute pastel-loving developer mixing soft aesthetics
-with powerful full-stack skills.
-
-✧ loves ✧
-Java • Web Dev • UI Design • Pink Themes • Anime • Gojo 💙
-
-✧ personality ✧
+<table align="center">
+  <tr>
+    <td valign="top" align="center">
+      <p align="center">
+✧ whoami ✧<br>
+A cute pastel-loving developer mixing soft aesthetics<br>
+with powerful full-stack skills.<br>
+<br>
+✧ loves ✧<br>
+Java • Web Dev • UI Design • Pink Themes • Anime • Gojo 💙<br>
+<br>
+✧ personality ✧<br>
 soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
-
-```
+      </p>
+    </td>
+    <td valign="top" align="center">
+      <a href="https://app.daily.dev/abhilashathakur"><img src="https://api.daily.dev/devcards/v2/HjQRlY0kieUuvOEOywTyJ.png?type=default&r=41p" width="200" alt="Abhilasha Thakur's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
 <!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ## 🌼 I Code With Love and Logic — Here’s How I’m Growing 👇
 
-<p>
+<p align="center">
   <a href="https://gitroll.io/profile/ujsnzg30X3Xab5A70spEvv8eGXvr1" target="_blank">
     <img 
-      src="https://gitroll.io/api/badges/profiles/v1/ujsnzg30X3Xab5A70spEvv8eGXvr1?theme=kawaiiCat"
+      src="gitroll_glow.png"
       width="55%"
-      style="border-radius: 18px; box-shadow: 0px 0px 18px 4px #ffb3d9;"
       alt="GitRoll Profile Badge"
     />
   </a>
