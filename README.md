@@ -73,6 +73,10 @@ bash
 
 ### 💌 Connect With Me (let’s be frens~)
 
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/964716300666552391.png" alt="Discord Profile"/>
+</p>
+
 <p align="center"> 
   <a href="mailto:abhilashasthakur2@gmail.com@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%F0%9F%92%8C-FFB1D9?style=for-the-badge&logo=gmail&logoColor=white" /> 
@@ -82,6 +86,7 @@ bash
     <img src="https://img.shields.io/badge/LinkedIn-%F0%9F%8C%B8-FFB1D9?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 
 ## 📈 Most Used Languages <p align="center"> <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=abhilasha-blossom&layout=compact&hide_border=true&theme=radical&title_color=FFB3E6&text_color=C9C9C9&bg_color=0D0D0D" width="40%" /> </p> 
