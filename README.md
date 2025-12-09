@@ -71,47 +71,6 @@ bash
 
 <!-- 💕 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
-## 🍰 Skills from PG-DAC (soft but powerful 🎀)
-
-### 💗 Programming
-Java • C++ • C#
-
-OOP • Memory Management • Multithreading
-
-Strong DSA 💪✨
-
-### 🌸 Frontend
-HTML • CSS • JavaScript
-
-jQuery • AJAX • JSON
-
-React basics
-
-### 🎀 Backend
-Spring Boot
-
-Java EE (Servlets, JSP)
-
-ASP.NET MVC
-
-### 🍡 Databases
-MySQL
-
-MongoDB
-
-Beautiful + clean schema design
-
-### 💞 DevOps Tools
-Git & GitHub
-
-Linux
-
-Docker basics
-
-Agile + SDLC
-
-<!-- 🩷 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
-
 ### 💌 Connect With Me (let’s be frens~)
 
 <p align="center"> 
@@ -160,3 +119,12 @@ Agile + SDLC
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=600&size=26&pause=1500&color=FF78C4&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting!+%F0%9F%92%97;Stay+soft%2C+stay+growing+%F0%9F%A4%8D;Gojo+approves+your+coding~+%F0%9F%A4%97" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
