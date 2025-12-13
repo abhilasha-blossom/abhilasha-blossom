@@ -16,7 +16,7 @@
 
 
 
-<!-- 🌸 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
+<p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ## 🎀 About Me
 
@@ -39,8 +39,8 @@ soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
       <a href="https://app.daily.dev/abhilashathakur"><img src="https://api.daily.dev/devcards/v2/HjQRlY0kieUuvOEOywTyJ.png?type=default&r=41p" width="200" alt="Abhilasha Thakur's Dev Card"/></a>
     </td>
   </tr>
-</table>
-<!-- 💗 CHIBI GOJO DIVIDER --> <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
+</table> 
+<p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ## 🌼 I Code With Love and Logic — Here’s How I’m Growing 👇
 
