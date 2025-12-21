@@ -15,7 +15,6 @@
 </p>
 
 
-
 <p align="center"> <img src="custom_divider_v4.png" width="100%" /> </p>
 
 ## 🎀 About Me
