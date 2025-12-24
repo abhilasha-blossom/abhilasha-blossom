@@ -53,14 +53,15 @@ soft ✧ aesthetic ✧ calm ✧ sparkly ✧ focused ✧ hardworking
   </a>
 </p>
 
-## 🍓 Currently Learning 
-bash
-  learning ~ now
-  🌸 Spring Boot APIs
-  🌸 HTML/CSS/JS with cute UI
-  🌸 MySQL + MongoDB
-  🌸 DSA (even trees are kawaii 🌳✨)
-  🌸 Clean soft UI patterns
+## 🍓 Currently Learning
+
+- 🐚 **Bash** — learning ~ now  
+- 🌸 **Spring Boot** — building RESTful APIs  
+- 🎀 **HTML / CSS / JavaScript** — with cute & soft UI  
+- 🍃 **Databases** — MySQL & MongoDB  
+- 🌳 **Data Structures & Algorithms** — even trees are kawaii ✨  
+- 🎨 **UI Design** — clean, soft & aesthetic patterns
+
 
 
 ## 🌸 My Tech Stack
